@@ -1,7 +1,7 @@
 ## 👋Saudações!! Eu sou o @LucasToisso
 
 - 👀 Estou em busca de vagas como programador junior!
-- 🌱 Atualmente estudo ReactJS
+- 🌱 Atualmente estudo TypeScript
 - 💞️ Procuro colaborar na área de front-end
 
 <div>
