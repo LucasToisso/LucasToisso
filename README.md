@@ -2,7 +2,7 @@
 
 - 👀 Estou em busca de vagas como programador junior!
 - 🌱 Atualmente estudo TypeScript
-- 💞️ Procuro colaborar na área de front-end
+- 💞️ Procuro colaborar na área de back-end
 
 <div>
   <a href="https://github.com/LucasToisso">
